@@ -28,7 +28,7 @@
     "lint:fix": "eslint --ext .js,.ts,.tsx,.vue --fix .",
     "types": "yarn tsc"
   },
-  "main": "./dist/instant-meilisearch.umd.js",
+  "main": "./dist/instant-meilisearch.cjs.js",
   "module": "./dist/instant-meilisearch.esm.js",
   "browser": "./dist/instant-meilisearch.umd.js",
   "cjs": "./dist/instant-meilisearch.cjs.js",
